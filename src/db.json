@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "firstname": "wajdi",
+      "lastname": "barhoumi",
+      "email": "wajdi@gmail.com",
+      "password": "ghjhjghj",
+      "id": 1
+    },
+    {
+      "firstname": "wajdi",
+      "lastname": "barhoumi",
+      "email": "barhoumi@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "firstname": "wajdi",
+      "lastname": "ww",
+      "email": "www",
+      "password": "wwww",
+      "id": 4
+    },
+    {
+      "firstname": "hfgh",
+      "lastname": "ghgfh",
+      "email": "hgfgh",
+      "password": "gfhfghfgh",
+      "id": 5
+    },
+    {
+      "firstname": "hfgh",
+      "lastname": "ghgfh",
+      "email": "hgfgh@gmailcom",
+      "password": "gfhfghfgh",
+      "id": 6
+    },
+    {
+      "firstname": "fghgfh",
+      "lastname": "fghfghdf",
+      "email": "wajdi.barhoumi26@gmail.com",
+      "password": "hgfhgfh",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "playSatation 4",
+      "descripton": "",
+      "quantity": "20",
+      "price": "1800",
+      "description": "état neuf ",
+      "id": 2
+    },
+    {
+      "name": "playSatation 4",
+      "descripton": "",
+      "quantity": "2",
+      "price": "1900",
+      "description": "état neuf ",
+      "id": 3
+    },
+    {
+      "name": "playSatation 4",
+      "descripton": "",
+      "quantity": "2",
+      "price": "1900",
+      "description": "état neuf ",
+      "id": 4
+    }
+  ]
+}
