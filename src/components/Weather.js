@@ -7,7 +7,6 @@ const Weather = () => {
     const [location, setlocation] = useState('');
     const [isLoading, setIsLoading] = useState(false)
 
-
     const handeleclick = () => {
         setIsLoading(true);
         axios
